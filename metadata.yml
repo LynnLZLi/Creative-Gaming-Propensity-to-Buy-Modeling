@@ -1,0 +1,18 @@
+---
+:id: 230909228
+:submitters:
+- :name: Lynn Li
+  :email: lil057@ucsd.edu
+- :name: Wenpu Zhang
+  :email: wez038@ucsd.edu
+- :name: Xintong Chen
+  :email: xic060@ucsd.edu
+- :name: Ran Ji
+  :email: raji@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-02-15 04:29:47.857885000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-02-14 20:29:47.857885000 Z
+:status: failed
+:score: 42.0
